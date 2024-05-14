@@ -4,4 +4,4 @@ Cat;
 Dog;
 Wildlife.
 
-This project is to train a deep learning model to classify images into one of the three categories (Cat, Dog, Wildlife), using Convolutional Neural Networks (CNNs).
+This project is to train a deep learning model to classify animal's images into one of the three categories (Cat, Dog, Wildlife), using Convolutional Neural Networks (CNNs).
